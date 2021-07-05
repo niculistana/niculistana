@@ -1,7 +1,7 @@
-### Hi there 👋
+![niculistana's github stats](https://github-readme-stats.vercel.app/api?username=niculistana&show_icons=true&count_private=true)
 
 <!--
-**niculistana/niculistana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sectsect/sectsect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
